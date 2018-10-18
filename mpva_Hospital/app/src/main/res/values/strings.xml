@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">내손안의 보훈위탁병원</string>
+    <string name="action_settings">Settings</string>
+    <string name="IDX_Current">현재위치</string>
+    <string name="VDX_CurrentLocation">위치를 찾고 있습니다.</string>
+    <string name="refbtn">내위치</string>
+    <string name="selecloc">지역</string>
+    <string name="txt_current">위치를 찾는중입니다.</string>
+    <string name="witak_introduce">위탁병원 소개</string>
+    <string name="coperation">만든사람들</string>
+    <string name="search_Hospital">병원검색</string>
+    <string name="appluncher">appLuncher</string>
+    <string name="appTitle">내 손안의 보훈위탁병원</string>
+</resources>
